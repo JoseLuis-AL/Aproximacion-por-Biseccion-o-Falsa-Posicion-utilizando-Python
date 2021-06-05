@@ -24,7 +24,7 @@ El método consiste en lo siguiente:
 - Se repite lo anterior hasta llegar a la raíz o a una aproximación.
 
 <p align="center">
-  <img width="600" height="50" src="Imagenes/biseccion_al.png">
+  <img src="Imagenes/biseccion_al.png">
 </p>
 
 
