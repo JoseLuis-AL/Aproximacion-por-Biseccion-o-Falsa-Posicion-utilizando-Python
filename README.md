@@ -3,13 +3,13 @@
 
 ## Introducción
 
-**¿Quién soy?**
+**¿Quién soy?**  
 Mi nombre es José Luis Aguilera Luzania y soy un estudiante de la Licenciatura en Ciencias de la Computación en la Universidad de Sonora en México.
 
-**Objetivo**
+**Objetivo**  
 El objetivo de este trabajo es demostrar el entendimiento de los métodos de Bisección y Falsa Posición aprendidos en la materia Análisis Numérico. También para prácticar el desarrollo de programas en el lenguaje Python.
 
-**¿Qué es el método de Bisección?**
+**¿Qué es el método de Bisección?**  
 El método de Bisección se utiliza para encontrar raíces de funciones, el metodo bisecciona repetidamente un intervalo y escoge el intervalo donde está la raiz, se puede aproximar por número de iteraciones o por error de truncamiento.
 
 <p align="center">
@@ -28,7 +28,7 @@ El método consiste en lo siguiente:
 </p>
 
 
-**¿Qué es el método de Falsa Posición?**
+**¿Qué es el método de Falsa Posición?**  
 El método de Falsa Posición se utiliza para aproximar raíces de funciones, este método es similar al método anterior pero ahora en lugar de usar el punto medio del intervalo, se usa la intersección con el eje *X* de la recta que une ambos puntos en *a_n* y *b_n*.
 
 <p align="center">
@@ -57,7 +57,7 @@ El algoritmo se encuentra definido dentro del archivo `algoritmo.py` en la funci
 	4. Definir el nuevo intervalo *[a_n, b_n]*.
 5. Imprimir resultados y terminar el programa.
 
-**Cambiar la función**
+**Cambiar la función**  
 Para cambiar la función a evaluar hay que modificar la función `f` en el archivo `algoritmo.py` (esto cambiará en una versión futura).
 
 
