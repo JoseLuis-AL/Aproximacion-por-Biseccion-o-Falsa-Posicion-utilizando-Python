@@ -1,5 +1,4 @@
 # Aproximación por Bisección o Falsa Posición utilizando Python.
----
 
 ## Introducción
 
